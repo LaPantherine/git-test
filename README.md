@@ -10,4 +10,8 @@ Hi! I'm La Pantherine. This repository is my mini-project to practice Git, GitHu
 
 ## Files
 - hello.txt — my first file
-- tasks.txt — tasks and notes
+- tasks.txt — tasks and notes 
+
+
+## My next step
+Learning how to work with multiple branches and pull requests 🐾
